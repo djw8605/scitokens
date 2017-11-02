@@ -8,7 +8,7 @@ Summary:        SciToken reference implementation library
 
 License:        Apache 2.0
 URL:            https://scitokens.org
-Source0:        https://files.pythonhosted.org/packages/source/s/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
+Source0:        %{pypi_name}-%{version}.tar.gz
 BuildArch:      noarch
  
 BuildRequires:  python2-devel
